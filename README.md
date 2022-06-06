@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 I'm an experienced engineer and technical innovator, specialising in the semantic space, with a drive to re-imagine the future of design, simulation and manufacturing; I've worked in a variety of positions, typically end-to-end (as project analyst/architect, developer) in a fast-paced, project-oriented organisation.
 
 
@@ -10,4 +10,4 @@ I'm an experienced engineer and technical innovator, specialising in the semanti
 - 📫 How to reach me: https://www.linkedin.com/in/raedawill/
 - 😄 Pronouns: Roy
 - ⚡ Fun fact: I don't like a pineapple-topped pizza, please stop being so offensive
--->
+
