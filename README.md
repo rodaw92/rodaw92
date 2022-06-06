@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Parts]([https://github.com/rodaw92/Aerospace-Ontology/blob/main/bloom%20client.png](https://raw.githubusercontent.com/rodaw92/rodaw92/main/hands_of_robot_and_human_touch_amid_virtual_networked_connections_circuits_binary_code_digital_identity_artificial_intelligence_machine_learning_innovation_future_by_ipopba_gettyima.webp))
+![Parts]([ttps://raw.githubusercontent.com/rodaw92/rodaw92/main/hands_of_robot_and_human_touch_amid_virtual_networked_connections_circuits_binary_code_digital_identity_artificial_intelligence_machine_learning_innovation_future_by_ipopba_gettyima.webp)])
 
 
 I'm an experienced engineer and technical innovator, specialising in the semantic space, with a drive to re-imagine the future of design, simulation and manufacturing; I've worked in a variety of positions, typically end-to-end (as project analyst/architect, developer) in a fast-paced, project-oriented organisation.
