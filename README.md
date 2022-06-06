@@ -12,4 +12,6 @@ I'm an experienced engineer and technical innovator, specialising in the semanti
 - 😄 Pronouns: Roy
 - ⚡ Fun fact: I don't like a pineapple-topped pizza, please stop being so offensive
 
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rodaw92/rodaw92/main/hands_of_robot_and_human_touch_amid_virtual_networked_connections_circuits_binary_code_digital_identity_artificial_intelligence_machine_learning_innovation_future_by_ipopba_gettyima.webp" width="500" height="320" />
 ![Parts](https://raw.githubusercontent.com/rodaw92/rodaw92/main/hands_of_robot_and_human_touch_amid_virtual_networked_connections_circuits_binary_code_digital_identity_artificial_intelligence_machine_learning_innovation_future_by_ipopba_gettyima.webp)
