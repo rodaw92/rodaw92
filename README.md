@@ -1,17 +1,19 @@
 ### Hi there 👋
-
-
-
-I'm an experienced engineer and technical innovator, specialising in the semantic space, with a drive to re-imagine the future of design, simulation and manufacturing; I've worked in a variety of positions, typically end-to-end (as project analyst/architect, developer) in a fast-paced, project-oriented organisation.
-
-
+I'm an innovative AI researcher and technical leader, specializing in autonomous verification systems and knowledge graphs, with a passion for transforming aerospace maintenance through advanced AI solutions. I lead research initiatives that bridge cutting-edge academic innovation with industrial applications, focusing on developing intelligent systems for safety-critical domains.
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rodaw92/rodaw92/main/hands_of_robot_and_human_touch_amid_virtual_networked_connections_circuits_binary_code_digital_identity_artificial_intelligence_machine_learning_innovation_future_by_ipopba_gettyima.webp" width="500" height="320" />
 
-- 🔭 I’m currently working on the development of Digital Twins Platforms that with Integrated Machine Learning are hugely novel in the aerospace and medical component manufacturing sectors
-- 🌱 I’m currently learning more about combining Knowledge Graph and Graph Algorithms to Find Hidden Skills at aerospace sector.
-- 💬 Ask me about anything related to the semantic and machine learning, I am happy to help.
-- 📫 How to reach me: https://www.linkedin.com/in/raedawill/
-- 😄 Pronouns: Roy
-- ⚡ Fun fact: I don't like a pineapple-topped pizza, please stop being so offensive
+🔭 I'm currently leading AI research on two major Innovate UK funded projects (NATEP, REPLENISH), developing autonomous verification systems and digital twin platforms for aerospace maintenance
+🌱 I'm pioneering research in multi-modal knowledge graphs and LLM integration for industrial applications
+💡 Created frameworks like ATLASky-AI and AQS-KG that achieved 92% verification accuracy and 93% reduction in human intervention
+🎓 Publishing research at premier conferences (ESWC 2024, ISWC 2023) and serving as Research Showcase Judge
+📫 Connect with me: https://www.linkedin.com/in/raedawill/
+😄 Known as: Roy
+⚡ Fun fact: I believe AI should enhance human capabilities, not replace them - just like I believe pineapple shouldn't replace traditional pizza toppings!
 
+My research focuses on:
 
+🤖 Autonomous Verification Systems
+🔄 Digital Twin Architectures
+📊 Knowledge Graph Technologies
+🧠 AI-Driven Decision Support
+🛠️ Industrial AI Applications
